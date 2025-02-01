@@ -50,11 +50,6 @@
  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>   
 </div>
 
-###
-
- 🐍 Watch my contribution graph turn into a snake
-![Snake animation](https://github.com/<Sima-Mishra>/<Sima-Mishra>/blob/output/github-contribution-grid-snake.svg)
-
 
           
 ###
