@@ -53,7 +53,7 @@ from raw data ingestion and transformation to dashboards and machine learning.
 - Logistic Regression with MLflow  
 - End-to-end Databricks UI walkthrough  
 
-🔗 GitHub: https://github.com/Sima-Mishra/customer-churn-databricks  
+🔗 GitHub: https://github.com/Sima-Mishra/databricks-customer-churn-lakehouse  
 🎥 Video: https://www.youtube.com/@datawithmishra  
 
 ---
